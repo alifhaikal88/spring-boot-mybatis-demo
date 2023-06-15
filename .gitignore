@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/**
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+out/
+
+# Logs
+/log/
+
+# Caches
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries/
+
+# Misc
+/.idea/.name
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/uiDesigner.xml
+/.idea/dataSources.xml
+
+# User-specific files
+.idea/libraries/
+.idea/caches/
+.idea/codeStyles/
+.idea/shelf/
+
+# Build files
+/build/
